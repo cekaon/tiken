@@ -1,1 +1,6 @@
-<?php	echo "FORMAT C:";?>
+<?php
+
+	echo "FORMAT C:";
+	echo 'test';
+
+?>
